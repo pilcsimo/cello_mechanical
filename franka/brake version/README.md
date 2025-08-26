@@ -1,8 +1,6 @@
 # CELLO (CIIRC's version of GELLO) — Bearing-Isolated, Passive-Braked GELLO Variant for the Franka Emika Panda
 
-**CELLO** is a GELLO-style, low-cost leader device redesigned for robustness and **frictional joint regularization**. It adds **non-decoupling ring brakes** and a **bearing-isolated base joint** while keeping the build fully 3D-printable.
-
-> Target robot: **Franka Emika Panda**
+**CELLO** is low-cost GELLO leader variant for the **Franka Emika Panda**, that improves joint stability via **frictional joint regularization** and offloads structure-borne loads from motors.
 
 ---
 
